@@ -1,8 +1,8 @@
 <div align="center">
   
-  #### 👋 Welcome to Github Wanz Xploit
+  #### 👋 Welcome to Github CpmJhon21
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wanz%20Xploit&fontSize=80&fontAlign=60&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cpm%20Jhon21&fontSize=80&fontAlign=60&animation=fadeIn)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Linux+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Prompt+Engineer)](https://git.io/typing-svg)
 </div>
@@ -10,10 +10,10 @@
 ## 🧑‍💻 About Me
 
 ```python
-class WanzXploit:
+class CpmJhon21:
     def __init__(self):
-        self.name = "Wanz Xploit"
-        self.location = "Bali, Indonesia"
+        self.name = "CpmJhon21"
+        self.location = "JAKARTA, Indonesia"
         self.work = "Security Researcher & Developer"
         self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
         self.gaming = ["PS2 Classics", "MLBB", "COC"]
@@ -27,11 +27,11 @@ class WanzXploit:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=IP-LOC&theme=radical)](https://github.com/CpmJhon21/short-link)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=MATA&theme=radical)](https://github.com/CpmJhon21/CpmJhon-main)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=MATA-SERVER&theme=radical)](https://github.com/CpmJhon21/Website-jhon-main)
 
-➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
+➡️ [View All Projects](https://github.com/CpmJhon21?tab=repositories)
 
 </div>
 
@@ -56,8 +56,8 @@ class WanzXploit:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanzxploit&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzxploit&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CpmJhon21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CpmJhon21&theme=radical"/>
 </div>
 
 ## 🎯 Current Setup
@@ -80,9 +80,9 @@ System:
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MIKUMIKI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cpm_jhon)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cpm-jhon.my.id/)
-[![GPG Key](https://img.shields.io/badge/made%20in-%F0%9F%87%A7%F0%9F%87%AA%20indonesia-blue.svg)](https://github.com/wanzxploit.gpg)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/cpmjhon)
 
 </div>
 
@@ -90,10 +90,10 @@ System:
 
 <div align="center">
   
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Visitors&edge_flat=false)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCpmJhon21&title=Visitors&edge_flat=false)
 
-[![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
+[![GitHub Followers](https://img.shields.io/github/followers/CpmJhon21?style=social)](https://github.com/CpmJhon21?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/CpmJhon21?style=social)](https://github.com/CpmJhon21)
 
 **💝 Support me with follow**
 </div>
