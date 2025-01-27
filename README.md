@@ -13,7 +13,7 @@
 class CpmJhon21:
     def __init__(self):
         self.name = "CpmJhon21"
-        self.location = "JAKARTA, Indonesia"
+        self.location = "Jakarta, Indonesia"
         self.work = "Security Researcher & Developer"
         self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
         self.gaming = ["PS2 Classics", "MLBB", "COC"]
@@ -27,9 +27,9 @@ class CpmJhon21:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=IP-LOC&theme=radical)](https://github.com/CpmJhon21/short-link)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=MATA&theme=radical)](https://github.com/CpmJhon21/CpmJhon-main)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=MATA-SERVER&theme=radical)](https://github.com/CpmJhon21/Website-jhon-main)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=Website-jhon-main&theme=radical)](https://github.com/CpmJhon21/Website-jhon-main)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=CpmJhon-main&theme=radical)](https://github.com/CpmJhon21/CpmJhon-main)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon21&repo=short-link&theme=radical)](https://github.com/CpmJhon21/short-link)
 
 ➡️ [View All Projects](https://github.com/CpmJhon21?tab=repositories)
 
@@ -57,7 +57,7 @@ class CpmJhon21:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CpmJhon21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CpmJhon21&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=CpmJhon21&theme=radical&hide_border=true&locale=id&short_numbers=true"/>
 </div>
 
 ## 🎯 Current Setup
@@ -83,6 +83,8 @@ System:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cpm_jhon)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cpm-jhon.my.id/)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/cpmjhon)
+[![PayPal](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://saweria.co/CpmJhon)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](tiktok.com/@garasidrift_cpm)
 
 </div>
 
