@@ -82,7 +82,7 @@ System:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MIKUMIKI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cpm-jhon.my.id/)
-[![GPG Key](https://img.shields.io/youtube/channel/subscribers)](https://github.com/wanzxploit.gpg)
+[![GPG Key](https://img.shields.io/badge/made%20in-%F0%9F%87%A7%F0%9F%87%AA%20indonesia-blue.svg)](https://github.com/wanzxploit.gpg)
 
 </div>
 
