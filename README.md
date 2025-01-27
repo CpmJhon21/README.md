@@ -1,5 +1,3 @@
-# README.md
-
 <div align="center">
   
   #### 👋 Welcome to Github Wanz Xploit
@@ -84,7 +82,7 @@ System:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MIKUMIKI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cpm-jhon.my.id/)
-https://img.shields.io/badge/youtube-2CA5E0?style=for-the-badge&logo=youtube channel&logoColor=white)](https://github.com/wanzxp.gpg)
+[![GPG Key](https://img.shields.io/youtube/channel/subscribers&logoColor=white)](https://github.com/wanzxploit.gpg)
 
 </div>
 
