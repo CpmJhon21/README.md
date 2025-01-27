@@ -57,8 +57,9 @@ class CpmJhon21:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CpmJhon21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </div>
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CpmJhon21&theme=radical&hide_border=true&locale=id&short_numbers=true)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=CpmJhon21&theme=radical&hide_border=true&locale=id&short_numbers=true)](https://git.io/streak-stats)"/>
 </div>
 
 ## 🎯 Current Setup
