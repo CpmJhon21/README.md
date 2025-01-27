@@ -57,6 +57,8 @@ class CpmJhon21:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CpmJhon21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CpmJhon21&theme=radical&hide_border=true&locale=id&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat"/>
 </div>
 
 ## 🎯 Current Setup
@@ -81,7 +83,6 @@ System:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MIKUMIKI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cpm_jhon)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cpm-jhon.my.id/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CpmJhon21&theme=radical&hide_border=true&locale=id&short_numbers=true)](https://git.io/streak-stats)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/cpmjhon)
 [![PayPal](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://saweria.co/CpmJhon)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](tiktok.com/@garasidrift_cpm)
